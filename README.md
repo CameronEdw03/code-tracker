@@ -1,12 +1,40 @@
-# React + Vite
+# 🧠 Code Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack web application that helps developers log their daily coding activity, track project progress, and save code snippets — all in one place. Includes GitHub integration to link commits, repos, and contributions.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tech Stack
 
-## Expanding the ESLint configuration
+- **Frontend**: React.js, Tailwind CSS, Vite
+- **Backend**: Flask (Python REST API)
+- **Database**: [Specify if using SQLite, PostgreSQL, etc.]
+- **Version Control**: Git & GitHub
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📌 Features (In Progress)
+
+- ✅ Log daily coding activity
+- ✅ Save and organize code snippets
+- ✅ Track project milestones
+- ✅ Link GitHub profile and repositories
+- 🚧 Code snippet search and tagging
+- 🚧 Analytics dashboard (lines of code, time spent, etc.)
+- 🚧 Authentication system (OAuth, JWT)
+
+---
+
+## 📷 Screenshots
+
+> _Coming soon – UI still in development_
+
+---
+
+## 📦 Setup Instructions
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/CameronEdw03/code-tracker.git
+cd code-tracker
